@@ -1,9 +1,5 @@
 fun main() {
-        fun testaCommit(){
-            println("Testa commit")
-        }
-
-        testaCommit()
+        println("testa commit 0.2")
     }
 
 
